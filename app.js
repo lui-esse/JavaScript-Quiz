@@ -29,7 +29,7 @@ form.addEventListener('submit', e => {
   result.classList.remove("d-none");
 
 
- // animation percentruale
+ // animation score
 
  let output = 0;
 
